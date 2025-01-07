@@ -47,6 +47,46 @@ January 2, 2015: $2,731.90
 
 Indicates fluctuations in customer activity.
 
+Top-Selling Items
+Analyze sales by pizza type: Identify which types (e.g., Margherita, Pepperoni, Veggie, BBQ Chicken) sell the most.
+Insights: Focus marketing efforts on bestsellers and upsell premium versions or combos.
+
+Sales Trends
+Peak hours and days: Identify when sales are highest (e.g., weekends, evenings, special events).
+Insights: Offer time-based promotions during off-peak hours and prepare for peak times by optimizing inventory and staff scheduling.
+
+ Customer Preferences
+Customization trends: Track popular toppings or crust preferences.
+Insights: Highlight customizable options in promotions or menus to attract more customers.
+
+ Regional Differences
+If multiple locations exist, analyze preferences by region.
+Insights: Tailor offerings based on local tastes (e.g., spicy pizzas in regions that prefer bold flavors).
+
+ Order Channels
+Track online vs. in-store orders: Assess which channel generates the most revenue.
+Insights: Invest in user-friendly online ordering platforms or mobile apps if online sales dominate.
+
+ Marketing Effectiveness
+Track campaigns and offers: See which discounts or promotions drive the most sales.
+Insights: Focus on promotions with high ROI, such as combo deals or loyalty programs.
+
+ Seasonal Patterns
+Analyze seasonal spikes: For example, increased demand during football games, festivals, or holidays.
+Insights: Plan limited-time offers or themed pizzas for these periods.
+
+ Customer Retention
+Repeat vs. new customers: Assess the percentage of repeat business.
+Insights: Launch loyalty programs to reward repeat customers and increase retention.
+
+ Inventory Optimization
+Track ingredient usage: Identify frequently used ingredients and wastage patterns.
+Insights: Streamline inventory management to reduce costs and ensure freshness.
+
+ Upselling Opportunities
+Analyze combo sales: See which sides (e.g., garlic bread, beverages) are often purchased with pizzas.
+Insights: Bundle top-selling items with slow-moving products to boost sales.
+
 Features
 
 Data Analysis: Explore pizza popularity, revenue distribution, and temporal trends.
